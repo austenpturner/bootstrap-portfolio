@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(192, 191, 191);
+}
+nav {
+    padding-bottom: 0px !important;
+}
+nav div div {
+    padding-bottom: 7px;
+}
+footer {
+    border-top: 5px solid #5bc0de;
+}
+footer p {
+    padding-top: 8px;
+}
