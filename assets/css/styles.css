@@ -40,7 +40,10 @@ footer p {
 /* Media Queries */
 
 @media (min-width: 992px) {
-    #portfolio {
+    #portfolio,
+    #about-me,
+    #contact,
+    #main-nav {
         width: 66.67%;
     }
 }
