@@ -1,6 +1,11 @@
+/* Base Page Styles */
+
 body {
     background-color: rgb(192, 191, 191);
 }
+
+/* Main Nav Styles */
+
 nav {
     padding-bottom: 0px !important;
 }
@@ -10,9 +15,32 @@ nav div div {
 h1 {
     font-weight: lighter;
 }
+
+/* Main Footer Styles */
+
 footer {
     border-top: 5px solid #5bc0de;
 }
 footer p {
     padding-top: 8px;
+}
+
+/* Portfolio Page Styles */
+
+.card-img-top {
+    position: relative;
+}
+.card-title {
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    width: calc(100% - 30px);
+}
+
+/* Media Queries */
+
+@media (min-width: 992px) {
+    #portfolio {
+        width: 66.67%;
+    }
 }
