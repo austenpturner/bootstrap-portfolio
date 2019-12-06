@@ -1,10 +1,10 @@
 # My Bootstrap Portfolio Page
 
 ## The Assignment
-This was my second homework assignment for UW Bootcamp. The assignment was to re-make out first portfolio assignment using Boostrap. 
+This was my second homework assignment for UW Bootcamp. The assignment was to re-make our first portfolio assignment using Boostrap. 
 
 ## The Process
-I found this assignment much easier than the first. Which makes sense, since Bootstrap makes adding CSS to your page much faster and easier because it comes with it's own responsive gird layout and break points. Similar to the first project, I first made the navbar and footer and added them to each page. Next I added the unique body content for each page. I copied and pasted in Bootstrap code and then customized it by removing or adding elements and attributes. Last I added some of my own CSS using an external stylesheet.
+I found this assignment much easier than the first. Which makes sense, since Bootstrap makes adding CSS to your page much faster and easier because it comes with it's own responsive grid layout and break points. Similar to the first project, I made the navbar and footer first and added them to each page. Next I added the unique body content for each page. I copied and pasted in Bootstrap code and then customized it by removing or adding elements and attributes. Last I added some of my own CSS using an external stylesheet.
 
 ## The Outcome
 My profile turned out polished and responsive, fitting the requirements of the assignment. 
