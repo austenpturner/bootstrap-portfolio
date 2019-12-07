@@ -9,6 +9,16 @@ I found this assignment much easier than the first. Which makes sense, since Boo
 ## The Outcome
 My profile turned out polished and responsive, fitting the requirements of the assignment. 
 
+About page:
+![About Me Page Screenshot](https://github.com/austenpturner/bootstrap-portfolio/blob/master/assets/images/about-me-screenshot.JPG)
+
+Contact page:
+
+![Contact Page Screenshot](https://github.com/austenpturner/bootstrap-portfolio/blob/master/assets/images/contact-screenshot.JPG)
+
+Portfolio page:   
+![Portfolio Page Screenshot](https://github.com/austenpturner/bootstrap-portfolio/blob/master/assets/images/portfolio-screenshot.JPG)
+
 ## Next Steps
 While using Bootstrap was a quick way to style my page, it doesn't look unique or have much personality. My portfolio could use:
 1. Unique styles such as different colors, layout and design that show off my CSS skills and add some personality
